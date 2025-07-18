@@ -1,0 +1,11 @@
+.header {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 3.5vw;
+}
+
+@media (max-width: 768px) {
+    .header {
+        font-size: 11.8vw;
+    }
+}

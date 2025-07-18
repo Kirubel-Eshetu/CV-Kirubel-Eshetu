@@ -1,0 +1,40 @@
+.mainContainer {
+    width: 61.75%;
+}
+
+.mainContainer h3 {
+    color: rgb(255, 50, 60);
+    margin-left: 5vw;
+    font-size: 2vw;
+}
+
+.original {
+    margin-left: 3.0vw;
+}
+
+.original p {
+    font-size: 1.5vw;
+}
+
+.original a {
+    text-decoration: none;
+}
+
+
+@media (max-width: 768px) {
+    body {
+        overflow-x: hidden;
+        margin: 0;
+        padding: 0;
+    }
+
+    .mainContainer {
+        margin: 0 auto;
+        width: 90%;
+    }
+
+    .mainContainer h3 {
+        font-size: 8vw;
+    }
+
+}

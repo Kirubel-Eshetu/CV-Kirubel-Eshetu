@@ -1,0 +1,134 @@
+.certContainer {
+    margin-left: 5vw;
+    display: flex;
+}
+.certleft p{
+    font-size: 1.5vw;
+}
+.italic {
+    font-size: 1.3vw;
+}
+
+.certContainer .certleft {
+    width: 21.5vw;
+}
+
+.certContainer .certleft .jul2024 {
+    margin-top: 3.0vw;
+}
+
+.certContainer .certleft .feb2022,
+.feb20221 {
+    margin-top: 3.2vw;
+}
+
+.certContainer .certleft .feb20222 {
+    margin-top: 3.3vw;
+}
+
+.certContainer .certright {
+    margin-left: 5vw;
+}
+
+.certContainer .certright .dataanalysis {
+    margin-top: 1.4vw;
+}
+
+.certContainer .certright .andriod,
+.programming,
+.evasue{
+    margin-top: 2vw;
+}
+
+.certContainer .certright .ison{
+    margin-top: 2.4vw;
+}
+
+
+.certContainer .certright .dereja {
+    margin-top: 3.5vw;
+}
+
+.certContainer .certright .coding1 {
+    margin-top: 2.5vw;
+}
+
+.certContainer .certright .coding2 {
+    margin-top: 3.7vw;
+}
+
+.certContainer .certright .coding3 {
+    margin-top: 4.0vw;
+}
+
+.certContainer .certright .space {
+    margin-top: 2.1vw;
+}
+
+@media (max-width: 768px) {
+    .certContainer .certleft .july2024 {
+        margin-top: 3.0vw;
+    }
+
+    .certContainer .certright {
+        margin-right: 3vw;
+    }
+
+    .certContainer .certleft {
+        width: 50%;
+        margin-right: 3vw;
+    }
+
+    .certContainer .certleft .jul2024 {
+        margin-top: 10vw;
+    }
+
+    .certContainer .certleft p {
+        font-size: 4.8vw;
+    }
+
+    .certContainer .certleft i {
+        font-size: 4.0vw;
+    }
+
+    .certContainer .certright p {
+        font-size: 4.0vw;
+    }
+
+    .certContainer .certright .dataanalysis {
+        margin-top: 5vw;
+    }
+
+    .certContainer .certright .andriod,
+    .ison {
+        margin-top: 12vw;
+    }
+
+    .certContainer .certright .programming {
+        margin-top: 7.3vw;
+    }
+
+    .certContainer .certright .ison {
+        margin-top: 12vw;
+    }
+
+    .certContainer .certright .evasue {
+        margin-top: 12vw;
+    }
+
+    .certContainer .certright .dereja {
+        margin-top: 9vw;
+    }
+
+    .certContainer .certright .coding1 {
+        margin-top: -1vw;
+    }
+
+    .certContainer .certright .coding2 {
+        margin-top: 8vw;
+    }
+
+    .certContainer .certright .coding3, .certContainer .certright .space {
+        margin-top: 7.5vw;
+    }
+}

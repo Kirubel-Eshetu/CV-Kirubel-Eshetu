@@ -1,0 +1,32 @@
+.eduContainer {
+    display: flex;
+    width: 100%;
+}
+
+.eduContainer .eduleft {
+    margin-left: 5vw;
+    font-size: 1.5vw;
+    line-height: 0.5vw;
+}
+
+.eduContainer .eduright {
+    margin-top: -0.8vw;
+    margin-left: 7.5vw;
+    font-size: 1.5vw;
+}
+
+@media (max-width: 768px) {
+    .eduContainer .eduleft {
+        font-size: 4.8vw;
+    }
+
+    .eduContainer .eduright {
+        margin-top: 1vw;
+        font-size: 4.8vw;
+    }
+
+    .eduContainer .eduright .july2024 {
+        margin-top: 0.5vw;
+    }
+
+}
