@@ -17,5 +17,5 @@
 
  - You can also take a look at the sample image of the CV on a computer below  :)
 
- <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/CV_snapimage.png" alt = "CV project snap">
+ <img src = "https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/CV-Kirubel-Eshetu.png" alt = "CV kirubel Eshetu Landing Page">
 
