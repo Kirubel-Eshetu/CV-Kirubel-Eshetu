@@ -1,0 +1,24 @@
+.mainContainer .nameContainer {
+    background-color: rgb(255, 50, 60);
+    color: white;
+    padding: 5vw;
+    border-radius: 5vw;
+}
+
+.mainContainer .nameContainer .h1kirub {
+    font-size: 4vw;
+}
+
+.mainContainer .nameContainer .h2fresh {
+    font-size: 2.5vw;
+}
+
+@media (max-width: 768px) {
+    .mainContainer .nameContainer .h1kirub {
+        font-size: 11vw;
+    }
+
+    .mainContainer .nameContainer .h2fresh {
+        font-size: 7vw;
+    }
+}

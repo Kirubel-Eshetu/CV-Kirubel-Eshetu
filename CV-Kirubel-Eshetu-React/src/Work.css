@@ -1,0 +1,33 @@
+.workContainer {
+    display: flex;
+    margin-left: 5vw;
+    width: 100%;
+}
+
+.workContainer p {
+    font-size: 1.5vw;
+}
+
+.workContainer .workright {
+    margin-left: 5vw;
+    width: 61.75%;
+}
+
+.workContainer .workright .IT {
+    text-align: justify;
+}
+
+@media (max-width: 768px) {
+    .workContainer .workright {
+        margin-right: 8vw;
+        text-align: justify;
+    }
+
+    .workContainer .workleft .AMN {
+        font-size: 4.8vw;
+    }
+
+    .workContainer .workright .IT {
+        font-size: 4.8vw;
+    }
+}
