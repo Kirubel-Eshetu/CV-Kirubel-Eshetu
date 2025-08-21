@@ -12,7 +12,7 @@
 }
 
 .refright {
-    width: 50%;
+    width: 52%;
 }
 
 .refright i {
@@ -52,24 +52,14 @@
     }
 
     .ermi {
-        margin-bottom: 12vw;
+        margin-bottom: 10.5vw;
     }
 
     .yekoye {
-        margin-bottom: 10vw;
+        margin-bottom: 7.5vw;
     }
 
-    .ermi2 {
-        margin-left: 12vw;
+    .ermi2, .link1 {
+        margin-left: 10.5vw;
     }
-    
-     .yekoye a {
-        text-decoration: none;
-     }
-    
-     .link1 {
-        margin-left: 12vw;
-    }
-
-
 }
