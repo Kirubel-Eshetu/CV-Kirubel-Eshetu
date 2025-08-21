@@ -65,21 +65,3 @@ a {
         margin-left: 10.5vw;
     }
 }
-
-@media (max-width: 480px) {
-
-    .refContainer p,
-    a {
-        font-size: 3.5vw;
-    }
-
-    .ermi,
-    .yekoye {
-        margin-bottom: 11.5vw;
-    }
-
-    .ermi2,
-    .link1 {
-        margin-left: 10.5vw;
-    }
-}
