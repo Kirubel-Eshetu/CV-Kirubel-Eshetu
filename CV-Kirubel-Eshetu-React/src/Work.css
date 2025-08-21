@@ -8,26 +8,21 @@
     font-size: 1.5vw;
 }
 
-.workContainer .workright {
-    margin-left: 5vw;
+.workright {
+    margin-left: 7vw;
     width: 61.75%;
 }
 
-.workContainer .workright .IT {
+.it {
     text-align: justify;
 }
 
 @media (max-width: 768px) {
-    .workContainer .workright {
+    .workright {
         margin-right: 8vw;
-        text-align: justify;
     }
 
-    .workContainer .workleft .AMN {
-        font-size: 4.8vw;
-    }
-
-    .workContainer .workright .IT {
-        font-size: 4.8vw;
-    }
+   .workContainer p {
+    font-size: 3.5vw;
+   }
 }

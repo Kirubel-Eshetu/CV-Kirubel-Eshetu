@@ -14,10 +14,10 @@ function MainContainer() {
         <div className="mainContainer">
             <NameContainer />
             
-            <h3 className="h3it">About</h3>
+            <h3>About</h3>
             <About />
 
-            <h3 className="eduh3">Education</h3>
+            <h3>Education</h3>
             <Education />
 
             <h3>Work Experience</h3>
@@ -36,9 +36,8 @@ function MainContainer() {
             
             <h3>References</h3>
             <Reference />
-
-
-        </div>)
-}
+        </div>
+        )
+};
 
 export default MainContainer;

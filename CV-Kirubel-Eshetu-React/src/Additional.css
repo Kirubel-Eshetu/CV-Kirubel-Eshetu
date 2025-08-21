@@ -8,12 +8,11 @@
 }
 
 @media (max-width: 768px) {
-     .mainContainer .additional {
+    .additional {
         margin-right: 5vw;
-        text-align: justify;
     }
 
-    .mainContainer .additional p {
-        font-size: 4.8vw;
+    .additional p {
+        font-size: 3.5vw;
     }
 }

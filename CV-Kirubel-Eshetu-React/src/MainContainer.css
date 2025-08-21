@@ -8,19 +8,6 @@
     font-size: 2vw;
 }
 
-.original {
-    margin-left: 3.0vw;
-}
-
-.original p {
-    font-size: 1.5vw;
-}
-
-.original a {
-    text-decoration: none;
-}
-
-
 @media (max-width: 768px) {
     body {
         overflow-x: hidden;
@@ -34,7 +21,7 @@
     }
 
     .mainContainer h3 {
-        font-size: 8vw;
+        font-size: 5vw;
     }
 
 }

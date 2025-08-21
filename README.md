@@ -19,7 +19,7 @@
 
  🔗 Click <a href="https://cv-kirubel-eshetu.vercel.app/" style = "text-decoration: none;">here</a> to check it out.
 
- 🖼️ You can also take a look at the sample image of the CV below :)
+ 🖼️ You can also take a look at the landing page image of the CV below :)
 
  <img src = "github.com/Kirubel-Eshetu/media-repo/blob/main/CV-Kirubel-Eshetu-React.png" alt = "CV project snap">
 

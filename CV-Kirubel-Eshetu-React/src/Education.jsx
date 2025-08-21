@@ -1,4 +1,4 @@
-import react from "react";
+import React from "react";
 import "./Education.css";   
 
 function Education(){
@@ -11,8 +11,8 @@ function Education(){
                     <p>GPA: 3.45</p>
                 </div>
                 <div className="eduright">
-                    <p className="july2024">July 2024 <br />
-                        Graduation Date</p>
+                    <p className="july2024">July 2024 </p>
+                    <p>Graduation Date</p>
                 </div>
             </div>
     )

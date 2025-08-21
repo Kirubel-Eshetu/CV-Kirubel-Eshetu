@@ -1,29 +1,20 @@
-.aboutContainer .bio {
+.aboutContainer {
+    width: 100%;
+}
+
+.bio {
     margin-left: 5vw;
     line-height: 1.6vw;
     font-size: 1.45vw;
     text-align: justify;
 }
 
-.aboutContainer {
-    width: 100%;
-}
-
 @media (max-width: 768px) {
 
-    .aboutContainer {
-    width: 100%;
-}
-
- .mainContainer .aboutContainer .bio {
-        font-size: 4.8vw;
+    .bio {
+        font-size: 3.5vw;
         line-height: 1.4;
         margin-right: 3.0vw;
 
-
-    }
-
-    .aboutContainer h3 {
-        font-size: 8vw;
     }
 }

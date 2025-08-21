@@ -9,7 +9,7 @@ function NameContainer(){
                 <h2 className="h2fresh">Fresh Graduate</h2>
             </div>
     )
-}
+};
 
 export default NameContainer;
  

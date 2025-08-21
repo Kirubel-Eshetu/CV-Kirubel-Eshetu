@@ -3,14 +3,16 @@
     margin-left: 2.0vw;
     font-family: 'Times New Roman', Times, serif;
     font-size: 1.5vw;
-    border: 0.01vw solid rgb(170, 170, 170);
+    border: 0.1vw solid rgb(170, 170, 170);
     padding: 3vw;
     border-radius: 3vw;
 }
-.personalInfo .h2personal {
+
+.h2personal {
     text-align: left;
 }
-.personalInfo .imageKET {
+
+.animehacker {
     width: 28vw;
     height: 30vw;
     margin-left: -1.5vw;
@@ -18,48 +20,75 @@
     justify-content: center;
 }
 
-.personalInfo .tellink2 {
+.tellink2 {
     margin-left: 4.5vw;
     text-decoration: none;
 }
 
-.personalInfo .tellink1 {
+.tellink2:hover {
+    text-decoration: underline;
+}
+
+.tellink1 {
     text-decoration: none;
 }
 
-.personalInfo .Email {
+.personalInfo .tellink1:hover {
+    text-decoration: underline;
+}
+
+.email {
     text-decoration: none;
 }
 
-.personalInfo .languageList {
+.email:hover {
+    text-decoration: underline;
+}
+
+.languageList {
     list-style-type: square;
 }
 
 @media (max-width: 768px) {
 
- .personalInfo {
+    .personalInfo {
         margin: 0 auto;
-        font-size: 4.8vw;
-        width: 90%;
-        text-align: center;
-
+        font-size: 4.5vw;
+        width: 85%;
+        margin-bottom: 5vw;
     }
 
-    .personalInfo .h2personal {
-        text-align: center;
+    .info, .contactDiv, .languageDiv {
+        margin-left: 5vw;
     }
 
-    .personalInfo .imageKET {
+    .h2personal {
+        font-size: 5.5vw;
+    }
+
+    .contact, .language {
+        font-size: 5.0vw;
+    }
+
+    .tellink2 {
+        margin-left: 11.0vw;
+    }
+
+    p, a, .languageList {
+        font-size: 3.5vw;
+    }
+
+    .animehacker {
         width: 100%;
         height: 85vw;
         margin: 0 auto;
     }
 
-    .personalInfo .languageList {
+    .languageList {
         list-style-position: inside;
         padding-left: 0;
         text-align: left;
         margin: 0 auto;
-        display: inline-block;  
+        display: inline-block;
     }
 }
