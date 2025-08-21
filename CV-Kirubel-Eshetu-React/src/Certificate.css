@@ -20,7 +20,7 @@
 
 @media (max-width: 768px) {
     
-    .certleft p{
+    .certleft p {
         font-size: 3.5vw;
     }
     .certleft i {
@@ -34,7 +34,6 @@
     .certright {
         margin-left: 15vw;
         margin-right: 3.0vw;
-        margin-top: -0.7vw;
     }
 
     .certright p {
@@ -42,7 +41,7 @@
     }
     
     .cursor, .ai {
-        margin-bottom: 5.5vw;
+        margin-bottom: 5.0vw;
     }
     
     .dataanalysis {
