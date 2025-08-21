@@ -1,0 +1,565 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.header {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 3.5vw;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+}
+
+.containerleft {
+    width: 25%;
+    margin-left: 2.0vw;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5vw;
+    border: 0.01vw solid rgb(170, 170, 170);
+    padding: 3vw;
+    border-radius: 3vw;
+}
+
+.containerleft .h2personal {
+    text-align: left;
+}
+
+
+.containerleft .imageKET {
+    width: 28vw;
+    height: 30vw;
+    margin-left: -1.5vw;
+    border-radius: 20%;
+    justify-content: center;
+}
+
+.containerleft .tellink2 {
+    margin-left: 4.5vw;
+    text-decoration: none;
+}
+
+.containerleft .tellink1 {
+    text-decoration: none;
+}
+
+.containerleft .Email {
+    text-decoration: none;
+}
+
+.containerright {
+    width: 61.75%;
+}
+
+.containerright .innerdiv {
+    background-color: rgb(255, 50, 60);
+    color: white;
+    padding: 5vw;
+    border-radius: 5vw;
+}
+
+.containerright .innerdiv .h1kirub {
+    font-size: 4vw;
+}
+
+.containerright .innerdiv .h2fresh {
+    font-size: 2.5vw;
+}
+
+.containerright .divcontent .bio {
+    margin-left: 5vw;
+    line-height: 1.6vw;
+    font-size: 1.45vw;
+    text-align: justify;
+}
+
+.containerright h3 {
+    color: rgb(255, 50, 60);
+    margin-left: 5vw;
+    font-size: 2vw;
+}
+
+.divcontent {
+    width: 100%;
+}
+
+.educontainer {
+    display: flex;
+    width: 100%;
+}
+
+.educontainer .eduleft {
+    margin-left: 5vw;
+    font-size: 1.5vw;
+    line-height: 0.5vw;
+}
+
+.educontainer .eduright {
+    margin-top: -0.8vw;
+    margin-left: 7.5vw;
+    font-size: 1.5vw;
+}
+
+
+.workcontainer {
+    display: flex;
+    margin-left: 5vw;
+    width: 100%;
+}
+
+.workcontainer p {
+    font-size: 1.5vw;
+}
+
+.workcontainer .workright {
+    margin-left: 5vw;
+    width: 61.75%;
+}
+
+.workcontainer .workright .IT {
+    text-align: justify;
+}
+
+.certcontainer {
+    margin-left: 5vw;
+    display: flex;
+}
+
+.italic {
+    font-size: 1.3vw;
+}
+
+.certcontainer p {
+    font-size: 1.5vw;
+}
+
+.certcontainer .certleft {
+    width: 21.5vw;
+}
+
+.certcontainer .certleft .jul2024 {
+    margin-top: 3.0vw;
+}
+
+.certcontainer .certleft .feb2022,
+.feb20221 {
+    margin-top: 3.2vw;
+}
+
+.certcontainer .certleft .feb20222 {
+    margin-top: 3.3vw;
+}
+
+.certcontainer .certright {
+    margin-left: 5vw;
+}
+
+.certcontainer .certright .dataanalysis,
+.andriod,
+.programming,
+.ison,
+.evasue {
+    margin-top: 1.2vw;
+}
+
+.certcontainer .certright .dereja {
+    margin-top: 3vw;
+}
+
+.certcontainer .certright .coding2 {
+    margin-top: 3.1vw;
+}
+
+.certcontainer .certright .coding3 {
+    margin-top: 3.2vw;
+}
+
+.certcontainer .certright .space {
+    margin-top: 1.6vw;
+}
+
+.extracontainer {
+    margin-left: 5vw;
+    display: flex;
+    width: 95%;
+}
+
+.extracontainer .extraleft {
+    width: 60vw;
+}
+
+.extracontainer p {
+    font-size: 1.5vw;
+}
+
+.extracontainer .extraright {
+    margin-left: 2vw;
+}
+
+.extracontainer .extraright .ptop {
+    text-align: justify;
+    margin-top: 1.2vw;
+}
+
+.extracontainer .extraright .pbottom {
+    text-align: justify;
+    margin-top: 3.0vw;
+}
+
+.additional {
+    margin-left: 5vw;
+}
+
+.additional p {
+    font-size: 1.5vw;
+    text-align: justify;
+}
+
+.refcontainer {
+    margin-left: 5vw;
+    display: flex;
+}
+
+.refcontainer p {
+    font-size: 1.5vw;
+}
+
+.refcontainer .refright {
+    margin-left: 2vw;
+    width: 50%;
+}
+
+.refcontainer .refleft {
+    width: 30%;
+}
+
+.containerright .refcontainer .refright .ermi1 {
+    text-decoration: none;
+}
+
+.containerright .refcontainer .refright .ermi2 {
+    margin-left: 4.3vw;
+    text-decoration: none;
+}
+
+.containerright .refcontainer .refright .ermi3 {
+    margin-left: 1.3vw;
+    text-decoration: none;
+}
+
+.containerright .refcontainer .refright .yekoye {
+    margin-top: 0vw;
+}
+
+.containerright .refcontainer .refright .yekoye .link0 {
+    text-decoration: none;
+}
+
+.containerright .refcontainer .refright .yekoye .link1 {
+    margin-left: 4.3vw;
+    text-decoration: none;
+}
+
+.containerright .refcontainer .refright .yekoye .link2 {
+    margin-left: 1.3vw;
+    text-decoration: none;
+}
+
+.containerright .refcontainer .refright .dani a,
+.tel {
+    text-decoration: none;
+}
+
+.containerright .refcontainer .refright .dani span {
+    margin-left: 1.5vw;
+}
+
+.original {
+    margin-left: 3.0vw;
+}
+
+.original p {
+    font-size: 1.5vw;
+}
+
+.original a {
+    text-decoration: none;
+}
+
+.footerdiv {
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 6vw;
+    font-size: 1.5vw;
+    padding-top: 1.1vw;
+    padding-bottom: 3.0vw;
+    margin-top: 1.5vw;
+}
+
+.inspire {
+    font-size: 1.5vw;
+    margin-left: 10vw;
+}
+
+@media (max-width: 768px) {
+    body {
+        overflow-x: hidden;
+        margin: 0;
+        padding: 0;
+    }
+
+    .header {
+        font-size: 11.8vw;
+    }
+
+    .container {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .containerleft {
+        margin: 0 auto;
+        font-size: 4.8vw;
+        width: 90%;
+        text-align: center;
+
+    }
+
+    .containerleft .h2personal {
+        text-align: center;
+    }
+
+    .containerleft .imageKET {
+        width: 100%;
+        height: 70vw;
+        margin: 0 auto;
+    }
+
+    .containerright {
+        margin: 0 auto;
+        width: 90%;
+    }
+
+    .containerright .innerdiv .h1kirub {
+        font-size: 11vw;
+    }
+
+    .containerright .innerdiv .h2fresh {
+        font-size: 7vw;
+    }
+
+    .container h3 {
+        font-size: 8vw;
+    }
+
+    .containerright .divcontent .bio {
+        font-size: 4.8vw;
+        line-height: 1.4;
+        margin-right: 3.0vw;
+
+
+    }
+
+    .containerright .divcontent h3 {
+        font-size: 8vw;
+    }
+
+    .containerright .educontainer .eduleft {
+        font-size: 4.8vw;
+    }
+
+    .containerright .educontainer .eduright {
+        margin-top: 1vw;
+        font-size: 4.8vw;
+    }
+
+    .containerright .educontainer .eduright .july2024 {
+        margin-top: 0.5vw;
+    }
+
+    .certcontainer .certleft .july2024 {
+        margin-top: 3.0vw;
+    }
+
+    .containerright .workcontainer .workright {
+        margin-right: 8vw;
+        text-align: justify;
+    }
+
+    .containerright .workcontainer .workleft .AMN {
+        font-size: 4.8vw;
+    }
+
+    .containerright .workcontainer .workright .IT {
+        font-size: 4.8vw;
+    }
+
+    .containerright .certcontainer .certright {
+        margin-right: 3vw;
+    }
+
+    .containerright .certcontainer .certleft {
+        width: 50%;
+        margin-right: 3vw;
+    }
+
+    .containerright .certcontainer .certleft .jul2024 {
+        margin-top: 10vw;
+    }
+
+    .containerright .certcontainer .certleft p {
+        font-size: 4.8vw;
+    }
+
+    .containerright .certcontainer .certleft i {
+        font-size: 4.0vw;
+    }
+
+    .containerright .certcontainer .certright p {
+        font-size: 4.0vw;
+    }
+
+    .containerright .certcontainer .certright .dataanalysis {
+        margin-top: 5vw;
+    }
+
+    .containerright .certcontainer .certright .andriod,
+    .ison {
+        margin-top: 12vw;
+    }
+
+    .containerright .certcontainer .certright .programming {
+        margin-top: 8vw;
+    }
+
+    .containerright .certcontainer .certright .evasue {
+        margin-top: 12vw;
+    }
+
+    .containerright .certcontainer .certright .dereja {
+        margin-top: 9vw;
+    }
+
+    .containerright .certcontainer .certright .coding1 {
+        margin-top: -1vw;
+    }
+
+    .containerright .certcontainer .certright .coding2 {
+        margin-top: 8vw;
+    }
+
+    .containerright .certcontainer .certright .coding3 {
+        margin-top: 8vw;
+    }
+
+    .containerright .certcontainer .certright .space {
+        margin-top: 7.5vw;
+    }
+
+    .containerright .extracontainer .extraright {
+        margin-right: 5vw;
+        margin-left: 6vw;
+    }
+
+    .containerright .extracontainer .extraright .ptop {
+        margin-top: 4.8vw;
+    }
+
+    .containerright .extracontainer .extraright .pbottom {
+        margin-top: 5vw;
+    }
+
+    .containerright .extracontainer .extraleft p {
+        font-size: 4.8vw;
+    }
+
+    .containerright .extracontainer .extraright p {
+        font-size: 4.8vw;
+    }
+
+    .containerright .additional {
+        margin-right: 5vw;
+        text-align: justify;
+    }
+
+    .containerright .additional p {
+        font-size: 4.8vw;
+    }
+
+    .containerright .refcontainer .refright {
+        margin-right: 35vw;
+    }
+
+    .containerright .refcontainer .refleft p {
+        font-size: 4.8vw;
+    }
+
+    .containerright .refcontainer .refright p {
+        font-size: 4.8vw;
+    }
+
+    .containerright .refcontainer .refright .ermi1 {
+        text-decoration: none;
+    }
+
+    .containerright .refcontainer .refright .ermi2 {
+        margin-left: 0vw;
+        text-decoration: none;
+    }
+
+    .containerright .refcontainer .refright .ermi3 {
+        margin-left: 0vw;
+        text-decoration: none;
+    }
+
+    .containerright .refcontainer .refright .yekoye {
+        margin-top: 21vw;
+    }
+
+    .containerright .refcontainer .refright .yekoye .link0 {
+        text-decoration: none;
+    }
+
+    .containerright .refcontainer .refright .yekoye .link1 {
+        margin-left: 0vw;
+        text-decoration: none;
+    }
+
+    .containerright .refcontainer .refright .yekoye .link2 {
+        margin-left: 0vw;
+        text-decoration: none;
+    }
+
+    .containerright .refcontainer .refright .dani {
+        margin-top: 21vw;
+    }
+
+    .containerright .refcontainer .refright .dani a {
+        margin-left: 0vw;
+        text-decoration: none;
+    }
+
+    .containerright .refcontainer .refright .dani .tel {
+        margin-left: -1vw;
+    }
+
+    .containerright .refcontainer .refright {
+        margin-left: 10vw;
+    }
+
+    .inspire {
+        font-size: 4.8vw;
+        text-align: center;
+    }
+
+    .footerdiv {
+        height: 30vw;
+        font-size: 5.8vw;
+    }
+}
