@@ -12,7 +12,7 @@
 }
 
 .refright {
-    width: 52%;
+    width: 55%;
 }
 
 .refright i {
@@ -51,12 +51,8 @@
         font-size: 3.5vw;
     }
 
-    .ermi {
-        margin-bottom: 10.5vw;
-    }
-
-    .yekoye {
-        margin-bottom: 7.5vw;
+    .ermi, .yekoye {
+        margin-bottom: 11.5vw;
     }
 
     .ermi2, .link1 {
