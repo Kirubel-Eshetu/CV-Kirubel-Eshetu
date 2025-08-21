@@ -3,7 +3,8 @@
     display: flex;
 }
 
-.refContainer p,a {
+.refContainer p,
+a {
     font-size: 1.5vw;
 }
 
@@ -28,11 +29,11 @@
     text-decoration: none;
 }
 
- .yekoye a {
+.yekoye a {
     text-decoration: none;
- }
+}
 
- .link1 {
+.link1 {
     margin-left: 4.4vw;
     text-decoration: none;
 }
@@ -41,21 +42,44 @@
     text-decoration: none;
 }
 
-.ermi a:hover, .yekoye a:hover, .dani a:hover {
+.ermi a:hover,
+.yekoye a:hover,
+.dani a:hover {
     text-decoration: underline;
 }
 
 @media (max-width: 768px) {
 
-    .refContainer p,a {
+    .refContainer p,
+    a {
         font-size: 3.5vw;
     }
 
-    .ermi, .yekoye {
+    .ermi,
+    .yekoye {
         margin-bottom: 11.5vw;
     }
 
-    .ermi2, .link1 {
+    .ermi2,
+    .link1 {
+        margin-left: 10.5vw;
+    }
+}
+
+@media (max-width: 480px) {
+
+    .refContainer p,
+    a {
+        font-size: 3.5vw;
+    }
+
+    .ermi,
+    .yekoye {
+        margin-bottom: 11.5vw;
+    }
+
+    .ermi2,
+    .link1 {
         margin-left: 10.5vw;
     }
 }
