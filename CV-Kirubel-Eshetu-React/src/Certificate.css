@@ -3,9 +3,11 @@
     display: flex;
 }
 
-.certleft p, .certright p{
+.certleft p,
+.certright p {
     font-size: 1.5vw;
 }
+
 .certleft i {
     font-size: 1.3vw;
 }
@@ -15,18 +17,19 @@
 }
 
 @media (max-width: 768px) {
-    
+
     .certleft p {
         font-size: 3.5vw;
     }
+
     .certleft i {
         font-size: 3.0vw;
     }
-    
+
     .certleft {
         width: 21.5vw;
     }
-    
+
     .certright {
         margin-left: 15vw;
         margin-right: 3.0vw;
@@ -35,17 +38,21 @@
     .certright p {
         font-size: 3.5vw;
     }
-    
-    .cursor, .ai {
+
+    .cursor,
+    .ai {
         margin-bottom: 7.5vw;
     }
-    
+
     .dataanalysis {
         margin-top: 4vw;
         margin-bottom: 7.5vw;
     }
-    
-    .andriod, .programming, .coding1, .coding3 {
+
+    .andriod,
+    .programming,
+    .coding1,
+    .coding3 {
         margin-bottom: 7.5vw;
     }
 
@@ -56,5 +63,5 @@
     .coding3 {
         margin-bottom: 1vw;
     }
-       
+
 }
