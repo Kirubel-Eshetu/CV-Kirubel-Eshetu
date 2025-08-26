@@ -8,29 +8,41 @@
     font-size: 1.5vw;
 }
 
+.ison {
+    margin-top: 3.5vw;
+}
+
 .workright {
     width: 65.0%;
     margin-right: 5.5vw;
 }
 
-.amn {
+.amn,
+.csr {
     margin-top: 1.75vw;
 }
 
-.it,.csr  {
+.dev,
+.it,
+.csr {
     text-align: justify;
 }
 
 @media (max-width: 768px) {
-    .amn {
-        margin-top: 20vw;
+    .ison {
+        margin-top: 23.5vw;
     }
+
+    .amn {
+        margin-top: 19.5vw;
+    }
+
 
     .workright {
         margin-right: 8vw;
     }
 
-   .workContainer p {
-    font-size: 3.5vw;
-   }
+    .workContainer p {
+        font-size: 3.5vw;
+    }
 }

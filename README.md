@@ -1,4 +1,4 @@
-# CV_Kirubel_React
+# CV Kirubel Eshetu
 🌟  I implemented my CV in a webpage and made it accessible on the internet for recruiters.
 
 ## Technologies Used

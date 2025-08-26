@@ -39,21 +39,27 @@
         font-size: 3.5vw;
     }
 
-    .cursor,
+    .cursor {
+        margin-bottom: 7.0vw;
+    }
+
     .ai {
-        margin-bottom: 7.5vw;
+        margin-bottom: 3.5vw;
     }
 
     .dataanalysis {
-        margin-top: 4vw;
         margin-bottom: 7.5vw;
     }
 
-    .andriod,
+    .andriod {
+        margin-bottom: 7.7vw;
+    }
+
+
     .programming,
     .coding1,
     .coding3 {
-        margin-bottom: 7.5vw;
+        margin-bottom: 7.2vw;
     }
 
     .coding2 {

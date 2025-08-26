@@ -5,9 +5,9 @@ function Additional() {
     return (
         <div className="additional">
             <p>
-                Computer programming, Satisfactory Typing, Document and PowerPoint preparation, Computer
+                PHP, MySQL, React, Express.js, Git, Satisfactory Typing, Document and PowerPoint preparation, Computer
                 Hardware maintenance, Adobe Photshop, Adobe Premiere Pro, Resource Management, Effective Communication, Customer
-                Experience Advising, Leadership
+                Experience Advising, Leadership, Teamwork, Problem Solving, Work Enviroment Adaptability. 
             </p>
         </div>
     )
