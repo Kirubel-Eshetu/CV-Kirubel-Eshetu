@@ -5,18 +5,22 @@ function Work() {
     return (
         <div className="workContainer">
             <div className="workleft">
+            <p className="ison">Aug 2024 - Dec 2024 <br />
+                <strong>Customer Service Representative</strong> <br />
+                iSON Xperiences</p>
                 <p className="amn">Jul 2023 - Sep 2023 <br />
                     <strong>IT technician </strong> <br />
                     AMN
                 </p>
             </div>
-
             <div className="workright">
+            <p className="csr">
+                During my 5-month tenure at iSON Xperiences, I provided technical support and assistance to Safaricom Ethiopia customers, addressing their inquiries and resolving issues related to network usage and MPesa. 
+                </p>
                 <p className="it">I have spent my internship period working
                     at Addis Media Network as an IT technician and Network Administrator. I worked under department of hardware maintenance and
                     Networking.
                 </p>
-
             </div>
         </div>
     )

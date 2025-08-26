@@ -9,15 +9,23 @@
 }
 
 .workright {
-    margin-left: 7vw;
-    width: 61.75%;
+    width: 65.0%;
+    margin-right: 5.5vw;
 }
 
-.it {
+.amn {
+    margin-top: 1.75vw;
+}
+
+.it,.csr  {
     text-align: justify;
 }
 
 @media (max-width: 768px) {
+    .amn {
+        margin-top: 20vw;
+    }
+
     .workright {
         margin-right: 8vw;
     }

@@ -13,12 +13,12 @@
 }
 
 .eduright {
-    margin-left: 8vw;
+    margin-left: 7.5vw;
     line-height: 0.5vw;
 }
 
 @media (max-width: 768px) {
-    .eduContainer p{
+    .eduContainer p {
         font-size: 3.5vw;
     }
 
@@ -27,13 +27,8 @@
     }
 
     .eduright {
-        margin-top: 3.0vw;
         line-height: 1vw;
-        margin-left: 7.0vw;
-    }
-
-    .july2024 {
-        margin-top: 0.5vw;
+        margin-left: 5.0vw;
     }
 
 }

@@ -6,7 +6,7 @@ function Education(){
          <div className="eduContainer">
                 <div className="eduleft">
                     <p>Bachlelor</p>
-                    <p>Computer Science</p>
+                    <p><strong>Computer Science</strong></p>
                     <p>Jimma University</p>
                     <p>GPA: 3.45</p>
                 </div>
