@@ -5,20 +5,21 @@
     border-radius: 5vw;
 }
 
-.h1kirub {
+.kirubel {
     font-size: 3.7vw;
 }
 
-.h2fresh {
+.fresh {
     font-size: 2.7vw;
 }
 
 @media (max-width: 768px) {
-    .h1kirub {
+    .kirubel {
         font-size: 8vw;
     }
 
-    .h2fresh {
+    .fresh {
         font-size: 5vw;
+        margin-left: 1vw;
     }
 }

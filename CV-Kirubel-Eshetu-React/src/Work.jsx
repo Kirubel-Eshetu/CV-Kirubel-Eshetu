@@ -24,7 +24,7 @@ function Work() {
             <div className="workright">
                 <p className="dev">
                     After joining INSA, I have been assigned to secure digital payment division.
-                    I am working as a system developer on a locally developed system called Derash which is a national bill aggregator platform.
+                    I am working as a system developer on a locally developed system called Derash which is a National Billing Payment System (NBPS).
                 </p>
                 <p className="csr">
                     During my 5-month tenure at iSON Xperiences, I provided technical support and assistance to Safaricom Ethiopia customers,

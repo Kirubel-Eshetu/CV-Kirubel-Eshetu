@@ -5,8 +5,8 @@ function NameContainer(){
     return(
         
         <div className="nameContainer">
-                <h1 className="h1kirub">Kirubel Eshetu</h1>
-                <h2 className="h2fresh">Fresh Graduate</h2>
+                <h1 className="kirubel">Kirubel Eshetu</h1>
+                <h2 className="fresh">Fresh Graduate</h2>
             </div>
     )
 };
