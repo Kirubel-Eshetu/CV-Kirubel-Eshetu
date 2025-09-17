@@ -7,7 +7,7 @@ function Work() {
             <div className="workleft">
                 <p className="insa">
                     Mar 2025 - Present <br />
-                    <strong>System Developer</strong> <br />
+                    <strong>Software Developer</strong> <br />
                     INSA
                 </p>
                 <p className="ison">
