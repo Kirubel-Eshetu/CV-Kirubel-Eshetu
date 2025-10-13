@@ -4,7 +4,7 @@ import "./PersonalInfo.css";
 function PersonalInfo() {
     return (
         <div className="personalInfo">
-            <img src="anime-hacker.jpg" alt="Anime Hacker" className="animehacker" />
+            <img src="kirubel-eshetu-tefera.jpg" alt="Anime Hacker" className="animehacker" />
 
             <div className="info">
                 <h2 className="h2personal">Personal Information</h2>
