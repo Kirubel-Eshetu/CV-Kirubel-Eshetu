@@ -21,5 +21,5 @@
 
  🖼️ You can also take a look at the landing page image of the CV below :)
 
- <a href = "https://cv-kirubel-eshetu.vercel.app/"  target="_blank" referrerpolicy="no-referrer"> <img src = "" alt = "CV project snap" /></a>
+ <a href = "https://cv-kirubel-eshetu.vercel.app/"  target="_blank" referrerpolicy="no-referrer"> <img src = "https://github.com/Kirubel-Eshetu/CV-Kirubel-Eshetu/blob/main/CV-Kirubel-Eshetu-landing.png" alt = "CV project snap" /></a>
 
