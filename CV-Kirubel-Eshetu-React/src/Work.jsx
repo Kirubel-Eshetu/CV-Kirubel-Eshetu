@@ -6,7 +6,7 @@ function Work() {
         <div className="workContainer">
             <div className="workleft">
                 <p className="insa">
-                    Mar 2025 - Present <br />
+                    Feb 2025 - Present <br />
                     <strong>Software Developer</strong> <br />
                     INSA
                 </p>
