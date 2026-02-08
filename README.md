@@ -1,5 +1,5 @@
-# CV Kirubel Eshetu
-🌟  I implemented my CV in a webpage and made it accessible on the internet for recruiters.
+# CV
+🌟 Implemented my CV in a webpage and made it accessible on the internet for recruiters.
 
 ## Technologies Used
 1️⃣ at first I have used HTML and CSS. <br />
@@ -15,11 +15,11 @@
 
 ❤️ As promised before completing the task, I have hosted the webpage. Didn't know hosting was very easy on Vercel (before trying it out, of course). 😁😁😁
 
-✨ After that, I have changed the website into React for better understanding of the framework and to make it easier for managment of the page.
+✨ After that, I have changed the website into React for better understanding of the framework and to make it easier for management of the page.
 
  🔗 Click <a href="https://cv-kirubel-eshetu.vercel.app/" style = "text-decoration: none;">here</a> to check it out.
 
  🖼️ You can also take a look at the landing page image of the CV below :)
 
- <a href = "https://cv-kirubel-eshetu.vercel.app/"  target="_blank" referrerpolicy="no-referrer"> <img src = "https://github.com/Kirubel-Eshetu/CV-Kirubel-Eshetu/blob/main/CV-Kirubel-Eshetu-landing.png" alt = "CV project snap" /></a>
+ <a href = "https://cv-kirubel-eshetu.vercel.app/"  target="_blank" referrerpolicy="no-referrer"> <img src = "https://github.com/KryptonScript/CV/blob/main/CV-landing.png" alt = "CV project snap" /></a>
 
